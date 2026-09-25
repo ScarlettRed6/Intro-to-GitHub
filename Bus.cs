@@ -22,7 +22,7 @@
             do
             {
                 //Display the bus seat layout
-                Console.WriteLine("Bus Reservation System");
+                Console.WriteLine("Welcome to the Bus Reservation System!");
                 string[] columns = { "Col 1", "Col 2", "Col 3", "Col 4" };
 
                 //Display column headers
